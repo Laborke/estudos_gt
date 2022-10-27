@@ -1,4 +1,6 @@
-body {background-color:#008822;
+body {
+	margin: 0;
+    background-color: LightBlue;
 }
 
 header {
