@@ -16,6 +16,12 @@ ul {font-size: 300%;
 ul {background-color: #555555
 }
 
+.texto-um {font-size: 200%;
+}
+
+.texto-dois {background-color: #009922;
+}
+
 #imagem-um {width: 70%;
 	border-style: solid;
 	border-color: red;
